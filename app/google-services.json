@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "139198398193",
+    "firebase_url": "https://gamehub-9dbe2.firebaseio.com",
+    "project_id": "gamehub-9dbe2",
+    "storage_bucket": "gamehub-9dbe2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139198398193:android:74b1046ee5eea216",
+        "android_client_info": {
+          "package_name": "com.wills.carl.gamehub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139198398193-4pf6f86n5c81fu54lv3gatpcjbvronel.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wills.carl.gamehub",
+            "certificate_hash": "e93a7858b0c47f16d892bc451488ac5a37a369e5"
+          }
+        },
+        {
+          "client_id": "139198398193-hfkvhcuf68fva1s41cqd5ujqhrpe4b18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCch0Gm_xEh_JQtRfecrKT0nwRZHhwCv9g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139198398193-hfkvhcuf68fva1s41cqd5ujqhrpe4b18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
